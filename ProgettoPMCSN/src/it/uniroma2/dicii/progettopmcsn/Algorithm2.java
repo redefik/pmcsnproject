@@ -114,7 +114,7 @@ public class Algorithm2 {
 				}	
 			}
 			
-			// Class 1 arrival
+			// Class 2 arrival
 			if (e.t == e.a2) {
 				if (s.n1 + s.n2 >= THRESHOLD2) {
 					s.N2 += 1;  										// Update cloud population
